@@ -9,9 +9,9 @@ Author URI: http://themeforest.net/user/XpeedStudio/portfolio
    ========================================================================== */
 html,
 body {
-    background-color: #ffffff;
+    background-color: #302f2f;
     font-size: 15px;
-    color: #363636;
+    color: #ffffff;
     width: 100%;
     padding: 0;
     margin-left: 0;
@@ -181,7 +181,7 @@ p:last-child {
 .home-wrap h4,
 .home-wrap h5,
 .home-wrap p {
-    color: #ffffff;
+    color: #606060;
     font-family: 'roboto', sans-serif;
 }
 .text {
@@ -569,7 +569,7 @@ input:-ms-input-placeholder {
 /*Menubar Style*/
 
 .navbar-default {
-    background-color:transparent;
+    background-color:#474747;;
     border:transparent;
     padding-top: 70px;
 }
@@ -587,24 +587,24 @@ input:-ms-input-placeholder {
     color:#fff;
 }
 .navbar-default .navbar-nav>li>a {
-    color:#464646;
+    color:#ffffff;
     font-size:14px;
     text-transform:uppercase;
     font-weight:600;
 }
 .navbar-default .navbar-nav>li>a:hover {
-    color:#fff;
+    color:#4747474;
 }
 
 .contact-number{
     font-size:12px;
     font-weight:600;
-    color:#464646;
+    color:#ffffff;
     margin-right:14px;
 }
 
 .menu-bg{
-    background:#ffc038;
+    background:#474747;
     padding:10px 0;
 }
 
@@ -612,7 +612,7 @@ input:-ms-input-placeholder {
 /*Home Page Style*/
 
 #home{
-    background-color:#ffc038;
+    background-color:#302f2f;
     color:#fff;
 }
 .homepage-style{
@@ -687,7 +687,7 @@ input:-ms-input-placeholder {
     color:#252525;
 }
 .portfolio .portfolio-item .pt-btn{
-    background:#ffc038;
+    background:#302f2f;
     padding:18px 40px;
     color:#464646;
     font-weight:bold;
@@ -769,7 +769,7 @@ input:-ms-input-placeholder {
 }
 .main-package .package-item{
     padding:50px 0;
-    border:1.5px solid #ffc038;
+    border:1.5px solid #302f2f;
 }
 .main-package .package-item.basic {
 
@@ -799,29 +799,29 @@ input:-ms-input-placeholder {
     padding: 15px 44px;
 }
 .package-item.standard .pkg-btn a:hover{
-    background:#ffc038;
+    background:#302f2f;
     color:#fff;
 }
 .package-item.premium h5{
 
-    color:#ffc038;
+    color:#302f2f;
 }
 .package-item.premium ul li{
     color:#b3b3b3;
 }
 
 .package-item.premium .package-bottom-area h3{
-    color:#ffc038;
+    color:#302f2f;
     font-weight:600;
 }
 
 .package-item.premium .package-bottom-area h3 span{
-    color:#ffc038;
+    color:#302f2f;
     font-weight:normal;
 }
 
 .package-item.premium .pkg-btn a{
-    background:#ffc038;
+    background:#302f2f;
 }
 
 .package-bottom-area h3{
@@ -869,7 +869,7 @@ input:-ms-input-placeholder {
 }
 .main-history .history-content .hst-btn button{
     border-radius:0;
-    background:#ffc038;
+    background:#302f2f;
     color:#333;
     font-size:12px;
     font-weight:500;
@@ -913,7 +913,7 @@ input:-ms-input-placeholder {
 /*Our Team Area*/
 
 .project-bg{
-    background-color:#ffc038;
+    background-color:#302f2f;
     padding:60px 0 30px 0;
 }
 .team-member{
@@ -938,7 +938,7 @@ input:-ms-input-placeholder {
     margin-bottom:30px;
 }
 .supports-content .spt-btn button{
-    background: #ffc038;
+    background: #302f2f
     padding: 15px 30px;
     color: #464646;
     font-size: 12px;
@@ -976,7 +976,7 @@ input:-ms-input-placeholder {
     position:relative;
 }
 .creative-works{
-    background:#ffc038;
+    background:#302f2f;
     position:absolute;
     width:100%;
     bottom:0;
@@ -1039,7 +1039,7 @@ input:-ms-input-placeholder {
     text-align:center;
 }
 .socio-copyright .social a i{
-    background:#ffc038;
+    background:#302f2f;
     border-radius:2px;
     height:35px;
     width:35px;
@@ -1067,7 +1067,7 @@ input:-ms-input-placeholder {
     text-align: center;
     color: #fff;
     font-size: 30px;
-    background: #ffc038;
+    background: #302f2f;
     position: fixed;
     bottom: 30px;
     right: 50px;
