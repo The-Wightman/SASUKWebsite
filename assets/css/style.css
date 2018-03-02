@@ -359,7 +359,7 @@ Button
     margin-right: 15px;
 }
 .our-history {
-    color: #ffffff;
+    color: #a51d00;
     background-color:#464646;
     height:50px;
     width: 230px;
@@ -443,7 +443,7 @@ Section Title Bar CSS
     text-transform: uppercase;
     text-align:center;
     background: #464646;
-    color: #fff;
+    color: #a51d00;
     padding:10px 60px;
     display: inline;
     box-shadow:2px 2px 2px 0 rgba(0,0,0, .5);
@@ -627,6 +627,7 @@ input:-ms-input-placeholder {
     font-size: 35px;
     font-weight: 500;
     text-transform:uppercase;
+    color:#a51d00;
 }
 .homepage-style .slider-area{
 
@@ -684,7 +685,7 @@ input:-ms-input-placeholder {
     font-size:18px;
     font-weight:bold;
     text-transform:uppercase;
-    color:#252525;
+    color:#a51d00;
 }
 .portfolio .portfolio-item .pt-btn{
     background:#302f2f;
@@ -777,7 +778,7 @@ input:-ms-input-placeholder {
 }
 .main-package .package-item.standard h5{
 
-    color:#f26c4f;
+    color:#a51d00;
     font-size:27px;
 
 }
@@ -804,7 +805,7 @@ input:-ms-input-placeholder {
 }
 .package-item.premium h5{
 
-    color:#302f2f;
+    color:#a51d00;
 }
 .package-item.premium ul li{
     color:#b3b3b3;
@@ -866,6 +867,7 @@ input:-ms-input-placeholder {
 }
 .main-history .history-heading{
    margin-top:-10px;
+   color:#a51d00;
 }
 .main-history .history-content .hst-btn button{
     border-radius:0;
@@ -906,7 +908,7 @@ input:-ms-input-placeholder {
     font-size:15px;
     font-weight:500;
     text-transform:uppercase;
-    color:#6a6a6a;
+    color:#a51d00;
     text-align:center;
 }
 
@@ -1047,7 +1049,7 @@ input:-ms-input-placeholder {
     color:#FFF;
 }
 .main-footer .footer-item h2{
-    color:#e6e9ed;
+    color:#a51d00;
     font-size:18px;
     text-transform:uppercase;
 }
